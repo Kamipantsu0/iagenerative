@@ -1,0 +1,14 @@
+● Base vectorielle : FAISS, ChromaDB, Qdrant
+● Interface (optionnelle) : Streamlit, Gradio
+Livrables attendus
+Chaque groupe doit fournir :
+1. Rapport (PDF) contenant :
+○ Description du problème
+○ Architecture proposée
+○ Choix techniques
+○ Résultats et limites
+2. Code source (GitHub)
+3. Présentation orale (10–15 min)
+Critères d’évaluation
+Critère Pondératin
+Compréhension du

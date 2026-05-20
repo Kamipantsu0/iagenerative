@@ -1,0 +1,8 @@
+pdfplumber
+langchain
+langchain-community
+chromadb
+sentence-transformers
+streamlit
+requests
+pypdf2
